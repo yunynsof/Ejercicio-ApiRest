@@ -12,4 +12,4 @@ Pasos de ejecucion:
 7. Luego en Postman o Insomnia colocar como metodo GET la url: http://localhost:7002/getItem/java.
 8. Listo se puede visualizar la informacion proveniente de Hacker New Java.
 
-Datos tecnicos: Java 8; Maven 3.5.2. 
+Datos tecnicos: Java 8; Maven 3.5.2; branch master 
